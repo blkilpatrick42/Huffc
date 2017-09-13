@@ -1,4 +1,3 @@
-#Huffc
 Huffc is a file compression program. It uses its own implementations of the 
 generic priority queue and generic tree data structures to compress files
 via a simple implementation of Huffman Coding.
