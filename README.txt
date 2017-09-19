@@ -11,14 +11,14 @@ resulting executable.
 
 Use:
 
-   ./Huffc -c <filename>
+   ./huffc -c <filename>
 
 to compress a given file. The file will be output in the same directory as
 "<filename>.huff". 
 
 Use:
 
-   ./Huffc -d <filename>
+   ./huffc -d <filename>
 
 to decompress a compressed file. The program will automatically remove the 
 .huff extension.
