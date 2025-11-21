@@ -31,5 +31,3 @@ decompress files.
 The code for the generic tree data structure is in the gTree.h and .cpp files.
 Similarly, the code for the generic priority queue data structure is in the 
 gPriorityQueue.h and .cpp files.
-
--Brandon Kilpatrick
